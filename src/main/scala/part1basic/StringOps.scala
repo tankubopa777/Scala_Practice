@@ -1,4 +1,4 @@
-package path1basic
+package part1basic
 
 object StringOps extends App{
 val str: String = "Hello, I am learning Scala"

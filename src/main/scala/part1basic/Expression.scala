@@ -1,4 +1,4 @@
-package path1basic
+package part1basic
 
 object Expression extends App{
   val x = 1 + 2

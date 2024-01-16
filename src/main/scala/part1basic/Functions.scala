@@ -1,4 +1,4 @@
-package path1basic
+package part1basic
 
 object Functions extends App{
   def aFunction(a: String, b: Int): String = {

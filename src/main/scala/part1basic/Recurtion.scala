@@ -1,4 +1,4 @@
-package path1basic
+package part1basic
 
 import scala.annotation.tailrec
 

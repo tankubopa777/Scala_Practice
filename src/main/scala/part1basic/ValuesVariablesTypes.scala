@@ -1,4 +1,4 @@
-package path1basic
+package part1basic
 
 object ValuesVariablesTypes extends App {
   val x: Int = 42
