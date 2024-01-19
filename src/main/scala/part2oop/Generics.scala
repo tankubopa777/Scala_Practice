@@ -48,7 +48,6 @@ object Generics {
 
     class Car
     // val newCage = new Cage(new Car) // this will not compile
-
     // expand MyList to be generic
 
 }
